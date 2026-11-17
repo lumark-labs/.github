@@ -15,7 +15,7 @@
 
 ---
 
-### Capabilities &amp; Stack
+<img src="../img/h-capabilities.png" alt="Capabilities & Stack" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-231f28?style=flat-square&logo=unrealengine&logoColor=f3b8c8" alt="Unreal Engine">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Linux-231f28?style=flat-square&logo=linux&logoColor=f3b8c8" alt="Linux">
 </p>
 
-### Divisions
+<img src="../img/h-divisions.png" alt="Divisions" width="100%">
 
 #### Lumark Games
 - **Scope:** PC, Mobile &amp; Real-Time 3D Games, multiplayer networking, physics systems &amp; custom shaders
@@ -46,7 +46,7 @@
 
 ---
 
-### Commercial &amp; Studio Portfolio
+<img src="../img/h-portfolio.png" alt="Commercial & Studio Portfolio" width="100%">
 
 > *Selected shareable B2B, B2C, and infrastructure deliveries. Additional client engagements remain private under NDA.*
 
