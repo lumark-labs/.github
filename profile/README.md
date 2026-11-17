@@ -17,5 +17,5 @@
 - **Platforms & Systems** — Cross-platform mobile (iOS / Android), PC, real-time multiplayer networking &amp; backend services
 
 <p align="center">
-  <sub>Founded by <a href="https://github.com/jarnesence">@jarnesence</a></sub>
+  <sub>Founded by <a href="https://github.com/jarnesence">p4tr0n</a></sub>
 </p>
