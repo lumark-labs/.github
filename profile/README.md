@@ -1,28 +1,65 @@
 <p align="center">
-  <img src="../img/banner.jpg" alt="Lumark — Games & Software" width="100%">
+  <img src="../img/banner-sakura.jpg" alt="Lumark Labs — Games · Real-Time 3D · Software Systems" width="100%">
 </p>
 
-<h3 align="center">Lumark Labs</h3>
+<h2 align="center">Lumark Labs</h2>
 <p align="center">
   <b>Independent Game Studio &amp; Software Engineering House</b><br>
-  Real-time 3D, Multiplayer Games, Interactive B2B Systems, Mobile &amp; Linux Infrastructure
+  Real-time 3D engines, multiplayer games, interactive B2B installations, mobile &amp; Linux infrastructure
+</p>
+
+<p align="center">
+  <a href="https://github.com/jarnesence"><img src="https://img.shields.io/badge/Founder-J%C3%A1rn-231f28?style=for-the-badge&logo=github&logoColor=f3b8c8" alt="Founder Járn"></a>
+  <img src="https://img.shields.io/badge/Divisions-Games%20%26%20Software-231f28?style=for-the-badge&logo=unrealengine&logoColor=f3b8c8" alt="Games and Software">
 </p>
 
 ---
+
+### Capabilities &amp; Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-231f28?style=flat-square&logo=unrealengine&logoColor=f3b8c8" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Unity-231f28?style=flat-square&logo=unity&logoColor=f3b8c8" alt="Unity">
+  <img src="https://img.shields.io/badge/Godot-231f28?style=flat-square&logo=godotengine&logoColor=f3b8c8" alt="Godot">
+  <img src="https://img.shields.io/badge/Three.js%20%2F%20Babylon.js-231f28?style=flat-square&logo=threedotjs&logoColor=f3b8c8" alt="Three.js">
+  <img src="https://img.shields.io/badge/C%2B%2B-231f28?style=flat-square&logo=cplusplus&logoColor=f3b8c8" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-231f28?style=flat-square&logo=csharp&logoColor=f3b8c8" alt="C#">
+  <img src="https://img.shields.io/badge/Rust-231f28?style=flat-square&logo=rust&logoColor=f3b8c8" alt="Rust">
+  <img src="https://img.shields.io/badge/JavaScript-231f28?style=flat-square&logo=javascript&logoColor=f3b8c8" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-231f28?style=flat-square&logo=typescript&logoColor=f3b8c8" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Swift-231f28?style=flat-square&logo=swift&logoColor=f3b8c8" alt="Swift">
+  <img src="https://img.shields.io/badge/Kotlin-231f28?style=flat-square&logo=kotlin&logoColor=f3b8c8" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Node.js-231f28?style=flat-square&logo=nodedotjs&logoColor=f3b8c8" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-231f28?style=flat-square&logo=python&logoColor=f3b8c8" alt="Python">
+  <img src="https://img.shields.io/badge/Go-231f28?style=flat-square&logo=go&logoColor=f3b8c8" alt="Go">
+  <img src="https://img.shields.io/badge/Linux-231f28?style=flat-square&logo=linux&logoColor=f3b8c8" alt="Linux">
+</p>
 
 ### Divisions
 
 #### Lumark Games
-- **Focus:** PC, Mobile &amp; Real-Time 3D Games, multiplayer architecture, physics &amp; custom shaders
-- **Engines &amp; Tech:** `Unreal Engine` · `Unity` · `Godot` · `C++` · `C#` · `GDScript` · `HLSL / GLSL`
-- **In Development:** Unannounced multiplayer game (`Closed-Source`, details kept private)
+- **Scope:** PC, Mobile &amp; Real-Time 3D Games, multiplayer networking, physics systems &amp; custom shaders
+- **In Development:** Unannounced multiplayer title (`Closed-Source` — details kept private)
 
 #### Lumark Software
-- **Focus:** Commercial 3D configurators (`WebGL` / `Pixel Streaming`), trade-show &amp; VR installations, enterprise tools, cross-platform mobile apps &amp; hardened Linux kiosk infrastructure
-- **Stack:** `Three.js` · `Babylon.js` · `JavaScript` · `TypeScript` · `Swift` · `Kotlin` · `Node.js` · `Python` · `Go` · `Linux`
+- **Scope:** Commercial 3D configurators (`WebGL` / `Pixel Streaming`), trade-show &amp; VR installations, enterprise internal systems, mobile/backend platforms &amp; hardened Linux kiosk infrastructure
+
+---
+
+### Commercial &amp; Studio Portfolio
+
+> *Selected shareable B2B, B2C, and infrastructure deliveries. Additional client engagements remain private under NDA.*
+
+| Division | Representative Systems | Stack |
+|---|---|---|
+| **Interactive Booth &amp; Expo** | `VexelDeck` · `LoomaTap` · `CorvusX` · `Kinetra` · `BrambleTag` · `TesselWall` | Unreal Engine, Unity, C++, C#, Node.js, Linux |
+| **3D Configurators &amp; WebGL** | `Plintho` · `SpokeForge` · `StrataLens` · `FoldCraft` · `LumenCast` | Three.js, Babylon.js, Unity WebGL, Pixel Streaming |
+| **Enterprise &amp; VR Training** | `VigilRoom` · `TorqueStep` · `BespokeDeck` · `BayGrid` | Unity, Meta Quest SDK, Vue.js, PostgreSQL, Three.js |
+| **Brand Gamification** | `BrewDash` · `BinCycle` · `PulseStage` | Unity, WebGL, Android, Socket.io, Node.js |
+| **Linux &amp; Kiosk Ops** | `BareBoot` · `SentinelD` · `NodeBeacon` · `CacheHarbor` | Debian/Ubuntu, Systemd, Docker, Nginx, React |
 
 ---
 
 <p align="center">
-  <sub>Founded by <a href="https://github.com/jarnesence">Járn</a></sub>
+  <sub>Lumark Labs · Founded by <a href="https://github.com/jarnesence">Járn</a></sub>
 </p>
