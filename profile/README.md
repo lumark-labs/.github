@@ -1,20 +1,27 @@
 <p align="center">
-  <img src="../img/banner.jpg" alt="Lumark Games — Unreal · Unity · Godot" width="100%">
+  <img src="../img/banner.jpg" alt="Lumark — Games & Software" width="100%">
 </p>
 
-<h3 align="center">Lumark Games</h3>
+<h3 align="center">Lumark — Games &amp; Software</h3>
 <p align="center">
-  <b>Independent Game Development Studio</b><br>
-  Real-time 3D, PC &amp; Mobile Games · Built with <b>Unreal Engine</b>, <b>Unity</b> &amp; <b>Godot</b>
+  <b>Independent Game Studio &amp; Software Engineering House</b><br>
+  Real-time 3D, Multiplayer Games, Interactive B2B Systems, Mobile &amp; Linux Infrastructure
 </p>
 
 ---
 
-### What We Build
+### Divisions
 
-- **Engines & Real-Time 3D** — `Unreal Engine` · `Unity` · `Godot` · custom shaders &amp; rendering pipelines
-- **Languages & Core Tech** — `C++` · `C#` · `GDScript` · `HLSL / GLSL` · `TypeScript`
-- **Platforms & Systems** — Cross-platform mobile (iOS / Android), PC, real-time multiplayer networking &amp; backend services
+#### Lumark Games
+- **Focus:** PC, Mobile &amp; Real-Time 3D Games, multiplayer architecture, physics &amp; custom shaders
+- **Engines &amp; Tech:** `Unreal Engine` · `Unity` · `Godot` · `C++` · `C#` · `GDScript` · `HLSL / GLSL`
+- **In Development:** Unannounced multiplayer game (`Closed-Source`, details kept private)
+
+#### Lumark Software
+- **Focus:** Commercial 3D configurators (`WebGL` / `Pixel Streaming`), trade-show &amp; VR installations, enterprise tools, cross-platform mobile apps &amp; hardened Linux kiosk infrastructure
+- **Stack:** `Three.js` · `Babylon.js` · `JavaScript` · `TypeScript` · `Swift` · `Kotlin` · `Node.js` · `Python` · `Go` · `Linux`
+
+---
 
 <p align="center">
   <sub>Founded by <a href="https://github.com/jarnesence">Járn</a></sub>
