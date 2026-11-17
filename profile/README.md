@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../img/banner-sakura.jpg" alt="Lumark Labs — Games · Real-Time 3D · Software Systems" width="100%">
+  <img src="../img/banner-v2.jpg" alt="Lumark Labs — Games · Real-Time 3D · Software Systems" width="100%">
 </p>
 
 <h2 align="center">Lumark Labs</h2>
