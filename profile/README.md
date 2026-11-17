@@ -2,7 +2,7 @@
   <img src="../img/banner.jpg" alt="Lumark — Games & Software" width="100%">
 </p>
 
-<h3 align="center">Lumark — Games &amp; Software</h3>
+<h3 align="center">Lumark Labs</h3>
 <p align="center">
   <b>Independent Game Studio &amp; Software Engineering House</b><br>
   Real-time 3D, Multiplayer Games, Interactive B2B Systems, Mobile &amp; Linux Infrastructure
